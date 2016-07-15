@@ -10,7 +10,7 @@ With bonus points for:
 * Updating the phone number,
 * Using a date-picker for the appointment.
 
-In terms of visual styling, something similar to https://github.com/salesforce-ux/design-system is ideal
+In terms of visual styling, something similar to the visual style of our products on [statflo.com](http://www.statflo.com/product-overview.html) is ideal unless you'd like to make your own
 
 To run the app:
 ```
